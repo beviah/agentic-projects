@@ -4,7 +4,7 @@ This repository showcases projects generated using an experimental agentic softw
 
 # Projects
 
-## quantum-neuro-symbolic-ai
+## [Quantum Neuro-Symbolic AI](quantum-neuro-symbolic-ai/)
 
 **Initial prompt:**
 
