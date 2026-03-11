@@ -1,0 +1,16 @@
+# Core dependencies
+numpy>=1.21.0
+torch>=2.0.0
+scipy>=1.7.0
+networkx>=2.6.0
+
+# Quantum computing (optional but recommended)
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+qiskit-ibm-runtime>=0.45.0
+
+# Additional ML libraries
+scikit-learn>=1.0.0
+
+# Installation instructions:
+# pip install --break-system-packages -r requirements.txt

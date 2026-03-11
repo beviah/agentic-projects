@@ -1,0 +1,9 @@
+[pytest]
+testpaths = tests
+python_files = test_*.py
+python_classes = Test*
+python_functions = test_*
+addopts = -v --tb=short -x
+markers =
+    slow: marks tests as slow (use -m "not slow" to skip)
+    hardware: marks tests that mock IBM hardware path
