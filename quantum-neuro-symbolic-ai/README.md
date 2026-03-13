@@ -6,7 +6,7 @@ A framework combining quantum computing, differentiable logic programming, knowl
 
 **Built by the author using a proprietary agentic AI framework** that orchestrates LLM models through structured cognitive pipelines — task classification, strategy selection, iterative critique-refine loops, anti-pattern detection, cross-session learning, and autonomous code execution with quality-gated completion. The framework learns from past sessions and adapts its reasoning strategies over time. Development used a human-in-the-loop workflow with Claude Sonnet for implementation and Claude Opus for architectural review. The entire project was produced in 7 sessions, ~150 minutes of compute time, across 250 agent iterations. To the author's knowledge, Devin is the closest comparable production system, though this framework takes a different architectural approach to cognitive orchestration and persistent learning. The framework is proprietary and not included in this release. 
 
-### This pipeline used for this demo can easily be wrapped into an agentic AI scientist that automatically discovers underexplored combinations of cutting‑edge methods, builds end‑to‑end systems for real datasets, a closed‑loop pipeline that iterates until it achieves useful or state‑of‑the‑art results with interpretable reasoning. ( Given enough tokens / funding :)
+### The pipeline used for this demo can easily be wrapped into an agentic AI scientist that automatically discovers underexplored combinations of cutting‑edge methods, builds end‑to‑end systems for real datasets, a closed‑loop pipeline that iterates until it achieves useful or state‑of‑the‑art results with interpretable reasoning. ( Given enough tokens / funding :)
 
 Initial prompt:
 
